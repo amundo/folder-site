@@ -1,0 +1,8 @@
+.fancy {
+  background: linear-gradient(blue, navy);
+  color:white;
+}
+
+.upside-down {
+  rotate: 180deg;
+}
